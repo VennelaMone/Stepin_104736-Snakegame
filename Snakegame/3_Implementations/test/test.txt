@@ -1,2 +1,2 @@
-In my application of snake game there are no inputs to be given dynamically.
+In my application of snake game there are no inputs to be given dynamically and all the functions are void type.
 After bulid and run in codeblocks it will directly redirect to output window in which we can see the output of the application.
